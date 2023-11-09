@@ -10,3 +10,11 @@ font-size: 30px;
 
 
 }
+.logo{
+width: 500px;
+height: 300px;
+margin: 3px;
+padding: 3px;
+border: 0.2rem solid darkviolet;
+border-radius: 20px;
+}
