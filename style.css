@@ -18,3 +18,14 @@ padding: 3px;
 border: 0.2rem solid darkviolet;
 border-radius: 20px;
 }
+
+.foto{
+    width: 500px;
+    height: 400px;
+    margin: 3px;
+    padding: 3px;
+    border: 0.2rem solid darkviolet;
+    border-radius: 20px;
+
+
+}
