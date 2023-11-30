@@ -16,7 +16,6 @@ ol{
 }
 
 .logo{
-align-items: center;
 width: 1100px;
 height: 600px;
 margin: 3px;
@@ -41,4 +40,8 @@ border-radius: 20px;
     color: black;
     list-style: none;
 
+}
+.item-lista{
+    display: inline-block;
+    justify-content: space-around;
 }
