@@ -1,7 +1,7 @@
 body{background-image:linear-gradient( #FEDE31, #614BF2, #251669);}
 
 header{
-    background-color: #614BF2;
+    background-color: #614bf200;
     border-bottom: 5px solid yellow;
     padding: 20px;
 }
@@ -25,8 +25,8 @@ ol{
 }
 
 .logo{
-width: 400px;
-height: 300px;
+width: 300px;
+height: 200px;
 margin: 3px;
 padding: 3px;
 border: 0.2rem solid darkviolet;
